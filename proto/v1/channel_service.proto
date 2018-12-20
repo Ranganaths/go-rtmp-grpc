@@ -1,0 +1,29 @@
+syntax = "proto3";
+package v1;
+// protoc -I=./proto/v1 --go_out=plugins=grpc:./pkg/api/v1 ./proto/v1/channel_service.proto
+message UserChannel {
+    string Name = 1;
+    string URL = 2;
+    string Key = 3;
+    bool Enabled = 4;
+    int64 UserID = 5;
+    int64 ID = 6;
+}
+
+message User {
+    int64 ID = 1;
+}
+
+message GetUserChannelRequest {
+    string StreamKey = 2;
+}
+
+message GetUserChannelResponse {
+    User User = 1;
+    int64 StreamID = 2;
+    repeated UserChannel Channels = 3;
+}
+
+service UserChannelService {
+    rpc Get(GetUserChannelRequest) returns (GetUserChannelResponse);
+}
