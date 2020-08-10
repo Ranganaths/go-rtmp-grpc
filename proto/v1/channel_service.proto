@@ -1,4 +1,5 @@
 syntax = "proto3";
+option go_package = "github.com/Ranganaths/go-rtmp-grpc/pkg/api/v1";
 package v1;
 // protoc -I=./proto/v1 --go_out=plugins=grpc:./pkg/api/v1 ./proto/v1/channel_service.proto
 message UserChannel {

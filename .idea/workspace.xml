@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73e6c363-068f-466a-9bcd-fb4bf0feb290" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/go-rtmp-grpc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/api/v1/github.com/Ranganaths/go-rtmp-grpc/pkg/api/v1/channel_service.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/api/v1/channel_service.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/v1/channel_service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/proto/v1/channel_service.proto" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.14.7" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/.." />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fqxemvSwC7v8buCQpkUQf0Yano" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build go-rtmp-grpc/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="go-rtmp-grpc" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="389" width="400" height="327" key="#Go_Modules" timestamp="1596970494200">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="781" y="389" width="400" height="327" key="#Go_Modules/53.27.1867.1053@53.27.1867.1053" timestamp="1596970494200" />
+    <state x="444" y="210" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596964808360">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="444" y="210" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1596964808360" />
+    <state x="733" y="404" width="481" height="337" key="#com.intellij.tools.ToolEditorDialog" timestamp="1596971666979">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="733" y="404" width="481" height="337" key="#com.intellij.tools.ToolEditorDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1596971666979" />
+    <state x="762" y="331" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596972488707">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="762" y="331" width="424" height="484" key="FileChooserDialogImpl/53.27.1867.1053@53.27.1867.1053" timestamp="1596972488707" />
+    <state width="1821" height="278" key="GridCell.Tab.0.bottom" timestamp="1596971013535">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="1821" height="278" key="GridCell.Tab.0.bottom/53.27.1867.1053@53.27.1867.1053" timestamp="1596971013535" />
+    <state width="1821" height="278" key="GridCell.Tab.0.center" timestamp="1596971013535">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="1821" height="278" key="GridCell.Tab.0.center/53.27.1867.1053@53.27.1867.1053" timestamp="1596971013535" />
+    <state width="1821" height="278" key="GridCell.Tab.0.left" timestamp="1596971013535">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="1821" height="278" key="GridCell.Tab.0.left/53.27.1867.1053@53.27.1867.1053" timestamp="1596971013535" />
+    <state width="1821" height="278" key="GridCell.Tab.0.right" timestamp="1596971013535">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state width="1821" height="278" key="GridCell.Tab.0.right/53.27.1867.1053@53.27.1867.1053" timestamp="1596971013535" />
+    <state x="709" y="236" width="544" height="633" key="RollbackChangesDialog" timestamp="1596973731124">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="709" y="236" width="544" height="633" key="RollbackChangesDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1596973731124" />
+    <state x="468" y="208" key="SettingsEditor" timestamp="1596972491466">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="468" y="208" key="SettingsEditor/53.27.1867.1053@53.27.1867.1053" timestamp="1596972491466" />
+  </component>
+</project>
